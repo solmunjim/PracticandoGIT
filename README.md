@@ -1,2 +1,2 @@
 # PracticandoGIT
-Este repositorio lo ha creado Soledad Muñoz Jiménez
+Este repositorio lo ha creado solmunjim
